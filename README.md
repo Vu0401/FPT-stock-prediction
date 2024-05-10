@@ -5,3 +5,6 @@ This project aims to predict the stock prices of FPT Corporation using deep lear
 
 ## Data Collection
 The stock data for FPT Corporation is automatically collected via the `vnstock` library, which provides an API to fetch historical stock price data from the Vietnam stock market.
+
+## Performance
+![image](https://github.com/Vu0401/Stock-prediction/assets/93986576/7fe0c12b-b1f5-44db-9d32-2b519cdbd4c6)
